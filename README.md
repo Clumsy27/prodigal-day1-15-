@@ -67,7 +67,7 @@ docker run --rm hello-inference
 
 ---
 
-## 🖼 Sample Output
+##  Sample Output
 
 ```
 Predicted class: golden_retriever
