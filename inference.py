@@ -29,4 +29,4 @@ outputs = session.run([output_name], {input_name: input_tensor})
 
 # Get prediction
 predicted_class = np.argmax(outputs[0])
-print(f"🎯 Predicted class index: {predicted_class}")
+print(f" Predicted class index: {predicted_class}")
